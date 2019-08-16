@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shop-author/shop-author.iml" filepath="$PROJECT_DIR$/shop-author/shop-author.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-book/shop-book.iml" filepath="$PROJECT_DIR$/shop-book/shop-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-cas/shop-cas.iml" filepath="$PROJECT_DIR$/shop-cas/shop-cas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-config/shop-config.iml" filepath="$PROJECT_DIR$/shop-config/shop-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-gateway/shop-gateway.iml" filepath="$PROJECT_DIR$/shop-gateway/shop-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-repo/shop-repo.iml" filepath="$PROJECT_DIR$/shop-repo/shop-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-server-center/shop-server-center.iml" filepath="$PROJECT_DIR$/shop-server-center/shop-server-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-tasktime/shop-tasktime.iml" filepath="$PROJECT_DIR$/shop-tasktime/shop-tasktime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-web/shop-web.iml" filepath="$PROJECT_DIR$/shop-web/shop-web.iml" />
+    </modules>
+  </component>
+</project>
